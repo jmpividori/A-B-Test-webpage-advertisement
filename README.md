@@ -1,34 +1,17 @@
 # A/B Test performed for a web advertisement
 
+Source of the dataset:
 
+https://www.kaggle.com/datasets/osuolaleemmanuel/ad-ab-testing/data
 
-A comienzos de 2020 se desataba la pandemia del coronavirus Covid-19 y con ella prácticamente todos los sectores de la sociedad, en especial el socio-sanitario y el económico, se vieron afectados con consecuencias de lo más variadas. La industria del automóvil no ha sido ajena a todos los efectos negativos provocados por la pandemia, una situación agravada aún más por la crisis de la escasez de los chips y semiconductores.
+Market research showed that using animal icons on the purchase page of www.catsVSdogs.com might promote a higher conversion rate, i.e. better sales.
 
-La consecuencia más grave es el notable retraso en los plazos de entrega de un vehículo nuevo, cuyos plazos suelen oscilar de forma mayoritaria entre los cuatro y los doce meses, aunque hay casos muy específicos como el de las marcas surcoreanas Hyundai y Kia y firmas niponas como Toyota, cuyos plazos son de apenas unas semanas.
+In this work, the data will be tested, by performing EDA and A/B statistical test in order to know if this statement is true.
 
-Dicho retraso en los plazos de entrega en la compra de un vehículo nuevo ha provocado a su vez una fortísima demanda en el mercado de coches de segunda mano cuya entrega al nuevo propietario es prácticamente inmediata. 
+The questions we ask to develop the A/B Test are:
 
-Debido a toda esta información he querido seguir indagando en el tema de los vehículos de segunda mano usando la dataset de DataMarket en el siguiente link 👉🏼 https://datamarket.es/#coches-de-segunda-mano-dataset
+✅ Was the experiment conducted properly?.
 
-Tras analizar la información del dataset me han surgido las siguientes preguntas:
+✅ Does the gathered information meet high-quality standards?.
 
-✅ ¿Cuál es el número de anuncios por provincia?.
-
-✅ Número de coches anunciados por año de año de fabricación.
-
-✅ Número de anuncios por marca en España.
-
-✅ Marca de coches más anunciada por provincia.
-
-✅ Número de anuncios pubicados por empresa o particular.
-
-✅ ¿Qué tipo de cambio es el más anunciado?.
-
-✅ Número de anuncios según su tipo de combustible.
-
-✅ Precio medio de venta por marca de vehículo
-
-✅ Depreciación por marca y modelo de vehículo durante los años (Análisis realizado con Power BI).
-
-✅ Modelos de coches anunciados según su tipo de combustible
-
+✅ Is there statistical evidence supporting the selection of one group over the other in terms of achieving the conversion rate objective?.
